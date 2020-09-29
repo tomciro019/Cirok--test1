@@ -7,7 +7,7 @@ namespace Cirok__test1
         
         static void Main(string[] args)
         {
-        a = Convert.ToInt32(Console.ReadLine());   
+        n = Convert.ToInt32(Console.ReadLine());   
           Console.WriteLine(PowerOfTwo(Convert.ToInt32(Console.ReadLine())));
 
 
