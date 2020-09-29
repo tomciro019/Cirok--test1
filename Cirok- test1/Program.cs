@@ -2,11 +2,17 @@
 
 namespace Cirok__test1
 {
-    class Program
+    class PowerOfTwo
     {
+        static int PowerOfTwo(int n)
+        {
+            return n * n;
+        }
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            string n = Console.ReadLine()
+
+            
         }
     }
 }
