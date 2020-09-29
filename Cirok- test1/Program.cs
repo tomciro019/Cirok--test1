@@ -14,12 +14,13 @@ namespace Cirok__test1
             
         }
 
-    static int PowerOfTwo(string n)
-    {
-        return 0;
-        int results = n*n
+        static int PowerOfTwo(int n)
+        {
+            int result = n * n;
+            return result;
+        
 
 
+        }
     }
-   }
 }
