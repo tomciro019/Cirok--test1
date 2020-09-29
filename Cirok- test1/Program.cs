@@ -3,11 +3,11 @@
 namespace Cirok__test1
 {
     class class
-    {
+       {
         
         static void Main(string[] args)
         {
-            Console.WriteLine(PowerOfTwo("zadej hodnotu: "));
+        Console.WriteLine(PowerOfTwo(Convert.ToInt32(Console.ReadLine())));
 
 
 
