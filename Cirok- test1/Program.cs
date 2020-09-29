@@ -10,9 +10,13 @@ namespace Cirok__test1
         }
         static void Main(string[] args)
         {
-            string n = Console.ReadLine()
+            Console.WriteLine(PowerOfTwo());
+
+
 
             
         }
+
+        static int PowerOfTwo(string label)
     }
 }
